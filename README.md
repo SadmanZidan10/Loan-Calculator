@@ -1,6 +1,6 @@
 # Loan-Calculator
 
-A simple and responsive **Loan Calculator web application** that helps users calculate **monthly EMI**, **total interest**, and **total payable amount** based on loan amount, interest rate, and loan tenure.
+A simple and responsive **Loan Calculator web application** that helps users calculate **monthly EMI**, **total interest**, and **total payable amount** based on loan amount, interest rate and loan tenure.
 
 ## 🚀 Live Demo
 🔗 https://loan-calculator-zidan.netlify.app/
